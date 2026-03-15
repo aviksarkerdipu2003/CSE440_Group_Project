@@ -2,3 +2,10 @@
 Group no : 4  
 **Project Task:** Create a puzzle-solver that efficiently tackles diverse puzzles using multiple search algorithms, with customized heuristics for informed searches. It offers user-friendly input, algorithm selection, and performance comparison, with thorough documentation for analysis.
 
+**Collaborators:**
+ |**Name**|**Student ID**|
+ |-----|---------|
+ |Sazzad Hosen Sany| 2211380042|
+ |Avik Sarker Dipu| 2111532042|
+ |Argho Das| 2131313042|
+ |Md Samiullah Shekh| 2011417042|
