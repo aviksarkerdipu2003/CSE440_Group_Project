@@ -1,12 +1,10 @@
-import heapq    
- '''   
-import heap based priority queue
- '''
+import heapq    #import heap based priority queue
+
 
 class Node:
-   '''
-    Node class for search tree
-   '''
+   
+   # Node class for search tree
+   
 
     def __init__(self, state, parent=None, cost=0):
         self.state = state
@@ -14,9 +12,9 @@ class Node:
         self.cost = cost   # g(n)= cost of arrival
 
     def path(self):
-        '''
-        Reconstruct solution path
-        '''
+        
+        #Reconstruct solution path
+        
         node = self
         path = []
 
