@@ -10,8 +10,8 @@ Group no : 4
  |Argho Das| 2131313042|
  |Md Samiullah Shekh| 2011417042|
 
-**Project Structure:**
-## Project Structure
+
+## Project Structure:
 
 ```
 puzzle_solver/
